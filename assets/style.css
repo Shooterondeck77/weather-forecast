@@ -1,0 +1,28 @@
+
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-content: space-between;
+    align-items: right;
+}
+
+.btncity {
+color: blueviolet;
+padding: 10px;
+width:100%;
+}
+
+button {
+width: fit-content;
+width: 70%;
+}
+
+
+ul {
+    list-style: none;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
